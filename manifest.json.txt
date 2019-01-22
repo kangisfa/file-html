@@ -1,0 +1,38 @@
+{
+  "name": "pesantren",
+  "short_name": "pesantren",
+  "start_url": "https://matapesantren.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "informasi seputar pondok pesantren indonesia",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-H7u3-FfbzVU/XEa5TUmPXXI/AAAAAAAAAEQ/BzlUtgkmooQO0HvtOCeZBoGkwFGhGIKFwCLcBGAs/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-G5D4hi5IaWQ/XEa50YKLjnI/AAAAAAAAAEY/3yGOTZjmHy4NxM1zcCeZPVwzeyQdTWnTACLcBGAs/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ZAV1Ynh6n28/XEa6LB0DnhI/AAAAAAAAAEg/-6J-L7_Ga3o1EZSLwc-nUgDb-gC2zmgnACLcBGAs/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Tejir5_huB8/XEa6pTwUHoI/AAAAAAAAAEo/sceDNl5167s8vPDCtZ7CHQe1CQ9c7nXUACLcBGAs/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VUid1TWl9dY/XEa7DuvrLnI/AAAAAAAAAEw/glMpJYQWMy8B3Ye3A2DGRL4ZF7slsRNsACLcBGAs/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-FKi2Ttg3H7Q/XEa7cjH2QUI/AAAAAAAAAE8/t_l4PYjnOWMF0bpENBIgO09IR71fPf31gCLcBGAs/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ormQJLRFtJg/XEa8UtXIxfI/AAAAAAAAAFU/rFp3jKoow6woEtKI_Hpqs2E8AnruAmDLQCLcBGAs/s1600/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
